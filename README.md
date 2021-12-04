@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website: https://chatx1app.netlify.app/
+
+Admin Login: 
+Id: mhhasan320
+password: @Admin123
+
 
 ## Available Scripts
 
