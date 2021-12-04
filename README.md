@@ -2,9 +2,9 @@
 
 Website: https://chatx1app.netlify.app/
 
-Admin Login: 
-Id: mhhasan320
-password: @Admin123
+Admin Login: \
+Id: mhhasan320 \
+password: @Admin123 \
 
 
 ## Available Scripts
